@@ -1,6 +1,6 @@
 # Projeto-Titanic
 
-- Imagine-se no Titanic, uma embarcação majestosa, mas com um destino trágico. À medida que o desastre se desenrola, os fatores determinantes de sobrevivência começam a se revelar, e entre eles, a localização física dentro do navio se destaca.
+Imagine-se no Titanic, uma embarcação majestosa, mas com um destino trágico. À medida que o desastre se desenrola, os fatores determinantes de sobrevivência começam a se revelar, e entre eles, a localização física dentro do navio se destaca.
 
 **Desigualdades Estruturais em Andares Inferiores**</br>
 Os decks inferiores, como G e F, abrigavam passageiros de classes econômicas mais baixas, que, além de estarem fisicamente mais próximos das áreas de inundação, enfrentaram dificuldades adicionais no acesso aos botes salva-vidas. Essa combinação de localização e classe social selou o destino de muitos, expondo desigualdades estruturais que impactaram drasticamente as taxas de sobrevivência.
